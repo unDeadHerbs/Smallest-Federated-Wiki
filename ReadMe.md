@@ -24,7 +24,7 @@ How to Participate
 
 First you will want to get caught up with some project history. We've been recording screencast videos for as long as we've had something to demo. You should watch them all. They're short:
 
-* http://wardcunningham.github.com
+* http://wardcunningham.github.io
 
 Then you will want to read through the project roadmap. This and a number of other forward looking pages are kept in the project's GitHub wiki:
 
